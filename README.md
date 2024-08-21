@@ -1,7 +1,7 @@
 <h1>Sejam bem-vindos ao meu GitHub!</h1>
 
 <h2>Sobre mim: </h2>
-
+Meu nome é Camila, estudante do ensino médio técnico em Análise e Desenvolvimento de Sistemas, atualmente com 16 anos. Sou apaixonada por tecnologia e sempre busco aprender mais sobre programação e desenvolvimento de software. Nos meus momentos de lazer, adoro jogar, para me divertir. Estou sempre em busca de novos desafios e oportunidades de crescimento na área de tecnologia. 
 
 <!--
 **milafraide/milafraide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
