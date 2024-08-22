@@ -18,7 +18,6 @@ Meu chamo Camila Fraide sou estudante do ensino médio técnico em Análise e De
     <li>Inglês básico.</li>
 </ul>
 <br>
-<br>
 <h3>Hobbies:</h3>
 <ul>
     <li>Jogar</li>
@@ -26,7 +25,6 @@ Meu chamo Camila Fraide sou estudante do ensino médio técnico em Análise e De
     <li>Assistir Séries, Filmes e Desenhos</li>
     <li>Pintar unhas</li>
 </ul>
-<br>
 <br>
 <h3>Objetivos e Motivações:</h3>
 Meu principal objetivo é me tornar uma desenvolvedora de software altamente qualificada, capaz de criar soluções eficientes. Sou motivada pela curiosidade e pela paixão por tecnologia, o que me impulsiona a aprender constantemente e a buscar aprimoramento contínuo em minhas habilidades. Desejo contribuir para projetos desafiadores que me permitam crescer profissionalmente e fazer a diferença no mundo da tecnologia.
