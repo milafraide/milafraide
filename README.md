@@ -15,6 +15,7 @@ Meu chamo Camila Fraide sou estudante do ensino médio técnico em Análise e De
         <li>Versionamento de Código</li>
         <li>Processos e Desenvolvimento de Software</li>
         <li>Redes de Computadores</li>
+    </ul>
     <li>Inglês básico.</li>
 </ul>
 <br>
