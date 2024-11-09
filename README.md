@@ -1,7 +1,7 @@
-<h1>Sejam bem-vindos ao meu GitHub!</h1>
+<h1>Sejam bem-vindos ao meu GitHub! 💙</h1>
 
 <h2>Sobre mim: </h2>
-Meu chamo Camila Fraide sou estudante do ensino médio técnico em Análise e Desenvolvimento de Sistemas, atualmente com 16 anos. Sou apaixonada por tecnologia e sempre busco aprender mais sobre programação e desenvolvimento de software. Nos meus momentos de lazer, adoro jogar, para me divertir. Estou sempre em busca de novos desafios e oportunidades de crescimento na área de tecnologia.<br>
+Me chamo Camila Fraide sou estudante do ensino médio técnico em Análise e Desenvolvimento de Sistemas, atualmente com 16 anos. Sou apaixonada por tecnologia e sempre busco aprender mais sobre programação e desenvolvimento de software. Nos meus momentos de lazer, adoro jogar, para me divertir. Estou sempre em busca de novos desafios e oportunidades de crescimento na área de tecnologia.<br>
 
 <h3>Experiências:</h3>
 <ul>
